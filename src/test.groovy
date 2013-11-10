@@ -10,6 +10,8 @@ class test {
         println 'this the first test'
         println 'this the second test'
         println 'this the third test'
+        println 'this the forth test'
+
 
 
     }
