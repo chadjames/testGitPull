@@ -8,5 +8,7 @@
 class test {
     def print(){
         println 'this the first test'
+        println 'this the second test'
+
     }
 }
